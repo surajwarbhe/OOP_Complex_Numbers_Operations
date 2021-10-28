@@ -5,6 +5,13 @@
 - Division
 #
 #
+## OUESTION:
+Design a class ‘Complex ‘with data members for real and imaginary part.
+Provide default and parameterized constructors. Write a program to
+perform Arithmetic operations of two complex numbers using operator
+overloading. Addition and subtraction using friend functions.
+#
+#
 ## OUTPUT: (ADDITION - SUBTRACTION)
 ```
 
@@ -50,6 +57,13 @@ Enter your choice : 3
 (Program finished)
 
 ```
+#
+#
+## QUESTION:
+Design a class ‘Complex ‘with data members for real and imaginary part.
+Provide default and parameterized constructors. Write a program to
+perform Arithmetic operations of two complex numbers using operator
+overloading. Multiplication and division using member functions.
 #
 #
 ## OUTPUT: (MULTIPLICATION - DIVISION)
